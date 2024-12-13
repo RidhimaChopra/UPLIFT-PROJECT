@@ -1,0 +1,299 @@
+[
+  {
+    "id": 1,
+    "user": {
+      "id": 1,
+      "username": "yash",
+      "email": "yashmittal4949@gmail.com"
+    },
+    "doctor": {
+      "id": 3,
+      "username": "yash7",
+      "email": "yash2554.be22@chitkara.edu.in"
+    },
+    "date": "2024-12-02",
+    "time": "15:56",
+    "price": "500",
+    "status": "booked"
+  },
+  {
+    "id": 3,
+    "user": {
+      "id": 2,
+      "username": "yash5",
+      "email": "yash2558.be22@chitkara.edu.in"
+    },
+    "doctor": {
+      "id": 3,
+      "username": "yash7",
+      "email": "yash2554.be22@chitkara.edu.in"
+    },
+    "date": "2024-12-11",
+    "time": "05:05",
+    "price": "500",
+    "status": "booked"
+  },
+  {
+    "id": 4,
+    "user": {
+      "id": 4,
+      "username": "yash8",
+      "email": "yashmittal@gmail.com"
+    },
+    "doctor": {
+      "id": 3,
+      "username": "yash7",
+      "email": "yash2554.be22@chitkara.edu.in"
+    },
+    "date": "2024-11-13",
+    "time": "23:03",
+    "price": "500",
+    "status": "booked"
+  },
+  {
+    "id": 5,
+    "user": {
+      "id": 4,
+      "username": "yash8",
+      "email": "yashmittal@gmail.com"
+    },
+    "doctor": {
+      "id": 3,
+      "username": "yash7",
+      "email": "yash2554.be22@chitkara.edu.in"
+    },
+    "date": "2024-11-19",
+    "time": "03:54",
+    "price": "500",
+    "status": "booked"
+  },
+  {
+    "id": 6,
+    "user": {
+      "id": 4,
+      "username": "yash8",
+      "email": "yashmittal@gmail.com"
+    },
+    "doctor": {
+      "id": 3,
+      "username": "yash7",
+      "email": "yash2554.be22@chitkara.edu.in"
+    },
+    "date": "2024-12-20",
+    "time": "04:54",
+    "price": "500",
+    "status": "booked"
+  },
+  {
+    "id": 7,
+    "user": {
+      "id": 1,
+      "username": "yash",
+      "email": "yashmittal4949@gmail.com"
+    },
+    "doctor": {
+      "id": 6,
+      "username": "ashok1",
+      "email": "ashok1@gmail.com"
+    },
+    "date": "2024-11-07",
+    "time": "05:45",
+    "price": 0,
+    "status": "booked"
+  },
+  {
+    "id": 9,
+    "user": {
+      "id": 1,
+      "username": "yash",
+      "email": "yashmittal4949@gmail.com"
+    },
+    "doctor": {
+      "id": 6,
+      "username": "ashok1",
+      "email": "ashok1@gmail.com"
+    },
+    "date": "2024-12-04",
+    "time": "04:34",
+    "price": "199",
+    "status": "booked"
+  },
+  {
+    "id": 9,
+    "user": {
+      "id": 1,
+      "username": "yash",
+      "email": "yashmittal4949@gmail.com"
+    },
+    "doctor": {
+      "id": 7,
+      "username": "ashok3",
+      "email": "ashok3@gmail.com"
+    },
+    "date": "2024-12-18",
+    "time": "04:33",
+    "price": "200",
+    "status": "booked",
+    "paymentId": "pay_PRnu5bUSiJinMN",
+    "orderId": "order_PRntw3eLNpP69k"
+  },
+  {
+    "id": 9,
+    "user": {
+      "id": 2,
+      "username": "yash5",
+      "email": "yash2558.be22@chitkara.edu.in"
+    },
+    "doctor": {
+      "id": 6,
+      "username": "ashok1",
+      "email": "ashok1@gmail.com"
+    },
+    "date": "2024-12-31",
+    "time": "23:43",
+    "price": "199",
+    "status": "booked",
+    "paymentId": "pay_PRnxhkkN0aoGgh",
+    "orderId": "order_PRnxW1UpFneFVn"
+  },
+  {
+    "id": 10,
+    "user": {
+      "id": 8,
+      "username": "ashok4",
+      "email": "ashok4@gmail.com"
+    },
+    "doctor": {
+      "id": 6,
+      "username": "ashok1",
+      "email": "ashok1@gmail.com"
+    },
+    "date": "2024-12-11",
+    "time": "04:54",
+    "price": "199",
+    "status": "booked",
+    "paymentId": "pay_PRo5pVdpebmYh4",
+    "orderId": "order_PRo5gF9TzEvuN9"
+  },
+  {
+    "id": 11,
+    "user": {
+      "id": 9,
+      "username": "sahaj",
+      "email": "sahajpal1905@gmail.com"
+    },
+    "doctor": {
+      "id": 3,
+      "username": "yash7",
+      "email": "yash2554.be22@chitkara.edu.in"
+    },
+    "date": "2024-12-12",
+    "time": "03:04",
+    "price": "500",
+    "status": "booked",
+    "paymentId": "pay_PRr5pOltVhOj6C",
+    "orderId": "order_PRr5CmybjA738h"
+  },
+  {
+    "id": 12,
+    "user": {
+      "id": 13,
+      "username": "SAHAJ",
+      "email": "sahajpal4831.be22@chitkara.edu.in"
+    },
+    "doctor": {
+      "id": 3,
+      "username": "yash7",
+      "email": "yash2554.be22@chitkara.edu.in"
+    },
+    "date": "25-10-2024",
+    "time": "15:30",
+    "price": "500",
+    "status": "booked"
+  },
+  {
+    "id": 13,
+    "user": {
+      "id": 13,
+      "username": "SAHAJ",
+      "email": "sahajpal4831.be22@chitkara.edu.in"
+    },
+    "doctor": {
+      "id": 3,
+      "username": "yash7",
+      "email": "yash2554.be22@chitkara.edu.in"
+    },
+    "date": "2024-12-13",
+    "time": "12:02",
+    "price": "500",
+    "status": "booked"
+  },
+  {
+    "id": 14,
+    "user": {
+      "id": 17,
+      "username": "Ridhima",
+      "email": "ridhima1012c@gmail.com"
+    },
+    "doctor": {
+      "id": 3,
+      "username": "yash7",
+      "email": "yash2554.be22@chitkara.edu.in"
+    },
+    "date": "2024-12-14",
+    "time": "12:02",
+    "price": "500",
+    "status": "booked"
+  },
+  {
+    "id": 15,
+    "user": {
+      "id": 17,
+      "username": "Ridhima",
+      "email": "ridhima1012c@gmail.com"
+    },
+    "doctor": {
+      "id": 18,
+      "username": "Kartik",
+      "email": "sahaj4831.be22@chitkara.edu.in"
+    },
+    "date": "2023-12-10",
+    "time": "14:00",
+    "price": "1500",
+    "status": "booked"
+  },
+  {
+    "id": 16,
+    "user": {
+      "id": 17,
+      "username": "Ridhima",
+      "email": "ridhima1012c@gmail.com"
+    },
+    "doctor": {
+      "id": 18,
+      "username": "Kartik",
+      "email": "sahaj4831.be22@chitkara.edu.in"
+    },
+    "date": "2024-12-16",
+    "time": "12:00",
+    "price": "1500",
+    "status": "booked"
+  },
+  {
+    "id": 17,
+    "user": {
+      "id": 15,
+      "username": "Rohan",
+      "email": "ridhima4826.be22@chitkara.edu.in"
+    },
+    "doctor": {
+      "id": 18,
+      "username": "Kartik",
+      "email": "sahaj4831.be22@chitkara.edu.in"
+    },
+    "date": "2024-12-17",
+    "time": "10:00",
+    "price": 100,
+    "status": "booked"
+  }
+]

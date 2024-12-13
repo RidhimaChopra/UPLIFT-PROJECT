@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "username": "yash",
+    "email": "yashmittal4949@gmail.com",
+    "password": "$2b$10$ZorUl3lRMQjGBJS6eY5Gxet6WZG5PnJNrZ2NOp7A9lVm4TJqOn2du",
+    "role": "user"
+  },
+  {
+    "id": 2,
+    "username": "yash5",
+    "email": "yash2558.be22@chitkara.edu.in",
+    "password": "$2b$10$EdjmQHUYgcRQUg8zUmcFVOis/RcnCk/nsIvuks.wJojf04pS.OkPW",
+    "role": "user"
+  },
+  {
+    "id": 3,
+    "username": "yash7",
+    "email": "yash2554.be22@chitkara.edu.in",
+    "password": "$2b$10$pNdKRZZ7zYjyWqWqBjC1VOp.9U7vsZj.40eRsSrrMDoPwS6zsdiPq",
+    "role": "doctor",
+    "status": "approved",
+    "availability": "available",
+    "price": "500"
+  },
+  {
+    "id": 4,
+    "username": "yash8",
+    "email": "yashmittal@gmail.com",
+    "password": "$2b$10$fL40crp8YUO6jc74MUI01OXa8I6UeRfpBVyW.l9KNiddWU.9yatxC",
+    "role": "admin",
+    "status": "approved",
+    "availability": "unavailable",
+    "price": 0
+  },
+  {
+    "id": 5,
+    "username": "ashok",
+    "email": "ashok@gmail.com",
+    "password": "$2b$10$Y2jiVtISoaw8uX7T4Yuo1.5SiM7eFDw8DMkrQIvSxcNjNvC8ucTVy",
+    "role": "doctor",
+    "status": "approved",
+    "availability": "unavailable",
+    "price": "50"
+  },
+  {
+    "id": 6,
+    "username": "ashok2",
+    "email": "ashok1@gmail.com",
+    "password": "$2b$10$bdfI/o6s8sATkViumPNtO.PRuUhlxzD.FHEOqfwUIZ5evyhl1wMm6",
+    "role": "doctor",
+    "status": "approved",
+    "availability": "available",
+    "price": "199",
+    "phone": "34234323535"
+  },
+  {
+    "id": 7,
+    "username": "ashok3",
+    "email": "ashok3@gmail.com",
+    "password": "$2b$10$1m/NWF74S7Tqbqv5NoKebObpgwWrFhlK7Kb0WlKYLhS7ypJvlWxpO",
+    "role": "doctor",
+    "status": "approved",
+    "availability": "available",
+    "price": "200"
+  },
+  {
+    "id": 8,
+    "username": "ashok4",
+    "email": "ashok4@gmail.com",
+    "password": "$2b$10$vQkf86.gtzROkt7Wwq5Caeqv3tGwc9xcfUMs.lvTgWllPCXcPuWmu",
+    "role": "user",
+    "status": "approved",
+    "availability": "unavailable",
+    "price": 0
+  },
+  {
+    "id": 9,
+    "username": "sahaj",
+    "email": "sahajpal1905@gmail.com",
+    "password": "$2b$10$YYo1siFx9QJtRRQRS4Ue5./R3o02WiFeVOx.RSVHB.wwBNUe90Wu.",
+    "role": "user",
+    "status": "approved",
+    "availability": "unavailable",
+    "price": 0
+  },
+  {
+    "id": 10,
+    "username": "arun",
+    "email": "arun@gmail.com",
+    "password": "$2b$10$xhS7yfAGKY69dlSluSi0I.9dBQq4lvuwBxZxPRYcd1y3F7/OMrg7.",
+    "role": "doctor",
+    "status": "pending",
+    "availability": "available",
+    "price": "500"
+  },
+  {
+    "id": 11,
+    "username": "sahaj_shj",
+    "email": "sahaj@gmail.com",
+    "password": "$2b$10$WsbCpNScOXsb8Pk8bVabtet/sxxql5v9.ckjp38C8BjQTUmETuIGG",
+    "role": "admin",
+    "status": "approved",
+    "availability": "unavailable",
+    "price": 0
+  },
+  {
+    "id": 12,
+    "username": "sahajshj",
+    "email": "sahajshj169@gmail.com",
+    "password": "$2b$10$a1J/7M8HdCfoqujwfSKQ/OxsneP53Wtgdy78vIm9csfw7MuQvKBNm",
+    "role": "user",
+    "status": "approved",
+    "availability": "unavailable",
+    "price": 0
+  },
+  {
+    "id": 13,
+    "username": "SAHAJ",
+    "email": "sahajpal4831.be22@chitkara.edu.in",
+    "password": "$2b$10$Zzmc9jz6LITKfxyfwiwVUu7.TZuV13HHjyP3HJQioAQRAYYWq0qAW",
+    "role": "user",
+    "status": "approved",
+    "availability": "unavailable",
+    "price": 0
+  },
+  {
+    "id": 14,
+    "username": "rohan",
+    "email": "rohan@gmail.com",
+    "password": "$2b$10$OzFXS6cg41aVdsfHpMoyY.5wS.uZ0UQeFJ4xEhraeQ5xDj7e86ACu",
+    "role": "user",
+    "status": "approved",
+    "availability": "unavailable",
+    "price": 0
+  },
+  {
+    "id": 15,
+    "username": "Rohan",
+    "email": "ridhima4826.be22@chitkara.edu.in",
+    "password": "$2b$10$tDyVKb6WLbNRg6GzbCA.le/TXqIIyKJ7NNhLQTSPVxfKU9b04yQpS",
+    "role": "user",
+    "status": "approved",
+    "availability": "unavailable",
+    "price": 0
+  },
+  {
+    "id": 16,
+    "username": "reva",
+    "email": "reva@gmail.com",
+    "password": "$2b$10$KR6DCca9RGrEG8HDjVxqd.VeQ95ebOmpvhUGDgU9Z316x3Dg8DDQm",
+    "role": "admin",
+    "status": "approved",
+    "availability": "unavailable",
+    "price": 0
+  },
+  {
+    "id": 17,
+    "username": "Ridhima",
+    "email": "ridhima1012c@gmail.com",
+    "password": "$2b$10$9qYkVqZ/MIghKXeTDbNNHOZ/Z6JBlvl3K6JAxri63tuygp.FrmGsO",
+    "role": "user",
+    "status": "approved",
+    "availability": "unavailable",
+    "price": 0
+  },
+  {
+    "id": 18,
+    "username": "Kartik",
+    "email": "sahaj4831.be22@chitkara.edu.in",
+    "password": "$2b$10$1lDrkVDkwfOnogArUxJ8.O68frIAl0U9aepUd7D3BBnvq1YjvoISO",
+    "role": "doctor",
+    "status": "approved",
+    "availability": "available",
+    "price": 100
+  }
+]

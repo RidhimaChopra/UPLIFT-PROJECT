@@ -1,0 +1,141 @@
+[
+  {
+    "id": 1,
+    "title": "dxfsdf",
+    "date": "2024-11-05",
+    "description": "sefsef",
+    "doctor": {
+      "id": 2,
+      "username": "yash5",
+      "email": "yash2558.be22@chitkara.edu.in"
+    }
+  },
+  {
+    "id": 2,
+    "title": "sdefgseg",
+    "date": "2024-11-07",
+    "description": "sefsegsgs",
+    "doctor": {
+      "id": 2,
+      "username": "yash5",
+      "email": "yash2558.be22@chitkara.edu.in"
+    }
+  },
+  {
+    "id": "44113ab4-f834-4d5a-91e8-a5fe5709af56",
+    "className": "knwakdaw",
+    "date": "2024-11-12",
+    "time": "03:43",
+    "venue": "efsef",
+    "description": "efssgesrg",
+    "image": "/uploads/1732980431149.jpg",
+    "doctor": {
+      "id": 6,
+      "username": "ashok1"
+    }
+  },
+  {
+    "id": "6350d822-4be0-4166-b70a-48690bc41b99",
+    "className": "dgrgdrgst",
+    "date": "2024-11-07",
+    "time": "04:53",
+    "venue": "esegsr",
+    "description": "segrgrd",
+    "image": "/uploads/1732980628322.jpg",
+    "doctor": {
+      "id": 6,
+      "username": "ashok1"
+    }
+  },
+  {
+    "id": "b344359b-ac4a-4586-8e3a-e683c517cd2d",
+    "className": "jhgggiu",
+    "date": "2024-11-06",
+    "time": "07:08",
+    "venue": "hjguyu",
+    "description": "jhouhh nu jkbo",
+    "image": "/uploads/1732980772506.jpg",
+    "doctor": {
+      "id": 6,
+      "username": "ashok1"
+    }
+  },
+  {
+    "id": "dedd816d-fde9-4361-8969-fa2cb5ccf390",
+    "className": "wefaefes",
+    "date": "2024-12-11",
+    "time": "03:45",
+    "venue": "dgrdgfsf",
+    "description": "esfsefgsgs",
+    "image": "/uploads/1732980839233.jpg",
+    "doctor": {
+      "id": 6,
+      "username": "ashok1"
+    }
+  },
+  {
+    "id": "4d0e306d-18f6-495a-a466-db74716e87fa",
+    "className": "last adding session",
+    "date": "2024-12-18",
+    "time": "03:43",
+    "venue": "chitkara",
+    "description": "full session set please come!!",
+    "image": "/uploads/1732997949783.png",
+    "doctor": {
+      "id": 5,
+      "username": "ashok"
+    }
+  },
+  {
+    "id": "0d02e92d-0e3c-42c5-a2ea-52e993787a24",
+    "className": "changed",
+    "date": "2024-12-11",
+    "time": "03:43",
+    "venue": "dfsefs",
+    "description": "sefsefsef",
+    "image": "/uploads/1733033582063.jpg",
+    "doctor": {
+      "id": 6,
+      "username": "ashok1"
+    }
+  },
+  {
+    "id": "870aa3c1-06d3-4261-8b91-c54b41b4037f",
+    "className": "",
+    "date": "",
+    "time": "",
+    "venue": "",
+    "description": "",
+    "image": null,
+    "doctor": {
+      "id": 6,
+      "username": "ashok2"
+    }
+  },
+  {
+    "id": "eaacf679-4b4b-49b9-9bd8-3fbce565fdf3",
+    "className": "Hello",
+    "date": "2024-12-14",
+    "time": "17:02",
+    "venue": "Chandigarh",
+    "description": "hi",
+    "image": "/uploads/1733890554639.png",
+    "doctor": {
+      "id": 18,
+      "username": "Kartik"
+    }
+  },
+  {
+    "id": "83df665f-9fc2-4c47-a35e-2e21ab0913ca",
+    "className": "",
+    "date": "2024-12-05",
+    "time": "",
+    "venue": "",
+    "description": "",
+    "image": null,
+    "doctor": {
+      "id": 18,
+      "username": "Kartik"
+    }
+  }
+]

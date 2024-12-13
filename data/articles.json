@@ -1,0 +1,209 @@
+[
+  {
+    "id": 1,
+    "title": "seoncd",
+    "content": "vinay",
+    "author": {
+      "id": 1,
+      "username": "yash",
+      "email": "yashmittal4949@gmail.com"
+    },
+    "image": "/uploads/1732969748826.jpg",
+    "reviews": [
+      {
+        "id": 1,
+        "user": {
+          "id": 1,
+          "username": "yash"
+        },
+        "rating": 3,
+        "comment": "jjvj"
+      },
+      {
+        "id": 2,
+        "user": {
+          "id": 2,
+          "username": "yash5"
+        },
+        "rating": 5,
+        "comment": "cdczc"
+      },
+      {
+        "id": 3,
+        "user": {
+          "id": 2,
+          "username": "yash5"
+        },
+        "rating": 2,
+        "comment": "very good article"
+      },
+      {
+        "id": 4,
+        "user": {
+          "id": 1,
+          "username": "yash"
+        },
+        "rating": 3,
+        "comment": "wafesf"
+      },
+      {
+        "id": 5,
+        "user": {
+          "id": 17,
+          "username": "Ridhima"
+        },
+        "rating": 4,
+        "comment": "Great"
+      },
+      {
+        "id": 6,
+        "user": {
+          "id": 17,
+          "username": "Ridhima"
+        },
+        "rating": 5,
+        "comment": ""
+      }
+    ],
+    "averageRating": 3.6666666666666665
+  },
+  {
+    "id": 2,
+    "title": "it worked bro",
+    "content": "efsenbfenfi eiofjeiofjsoeifisefiose foiseifj esiof jsfjseofjse fsdsfse fs",
+    "author": {
+      "id": 2,
+      "username": "yash5",
+      "email": "yash2558.be22@chitkara.edu.in"
+    },
+    "image": "/uploads/1732971021419.jpg",
+    "reviews": [
+      {
+        "id": 1,
+        "user": {
+          "id": 1,
+          "username": "yash"
+        },
+        "rating": 5,
+        "comment": "excelent"
+      },
+      {
+        "id": 2,
+        "user": {
+          "id": 14,
+          "username": "rohan"
+        },
+        "rating": 4,
+        "comment": ""
+      },
+      {
+        "id": 3,
+        "user": {
+          "id": 14,
+          "username": "rohan"
+        },
+        "rating": 5,
+        "comment": "good"
+      }
+    ],
+    "averageRating": 4.666666666666667
+  },
+  {
+    "id": 3,
+    "title": "tested",
+    "content": "esfaefewf",
+    "author": {
+      "id": 4,
+      "username": "yash8",
+      "email": "yashmittal@gmail.com"
+    },
+    "image": "/uploads/1732975137259.jpg",
+    "reviews": [],
+    "averageRating": 0
+  },
+  {
+    "id": 4,
+    "title": "esfsefsef",
+    "content": "sefsefsef",
+    "author": {
+      "id": 4,
+      "username": "yash8",
+      "email": "yashmittal@gmail.com"
+    },
+    "image": "/uploads/1732976522888.jpg",
+    "reviews": [
+      {
+        "id": 1,
+        "user": {
+          "id": 1,
+          "username": "yash"
+        },
+        "rating": 2,
+        "comment": "efse"
+      }
+    ],
+    "averageRating": 2
+  },
+  {
+    "id": 5,
+    "title": "ashok4 article",
+    "content": "my article working set",
+    "author": {
+      "id": 8,
+      "username": "ashok4",
+      "email": "ashok4@gmail.com"
+    },
+    "image": "/uploads/1733033110130.jpg",
+    "reviews": [],
+    "averageRating": 0
+  },
+  {
+    "id": 6,
+    "title": "sahaj edited",
+    "content": "my new article",
+    "author": {
+      "id": 9,
+      "username": "sahaj",
+      "email": "sahajpal1905@gmail.com"
+    },
+    "image": "/uploads/1733043619992.jpg",
+    "reviews": [
+      {
+        "id": 1,
+        "user": {
+          "id": 9,
+          "username": "sahaj"
+        },
+        "rating": 2,
+        "comment": "fsefsef"
+      }
+    ],
+    "averageRating": 2
+  },
+  {
+    "id": 7,
+    "title": "ATTACK OF ",
+    "content": "SOMETHING ",
+    "author": {
+      "id": 17,
+      "username": "Ridhima",
+      "email": "ridhima1012c@gmail.com"
+    },
+    "image": "/uploads/1733890273487.png",
+    "reviews": [],
+    "averageRating": 0
+  },
+  {
+    "id": 8,
+    "title": "wassup",
+    "content": "hello",
+    "author": {
+      "id": 18,
+      "username": "Kartik",
+      "email": "sahaj4831.be22@chitkara.edu.in"
+    },
+    "image": "/uploads/1733892740165.png",
+    "reviews": [],
+    "averageRating": 0
+  }
+]
